@@ -14,13 +14,12 @@ The Human-Disease Predictor Web App is a Flask-based application that uses machi
 - [Deployment](#deployment)
 - [Credits](#credits)
 - [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
 To run the web app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MGJillaniMughal/Human-Disease-Predictor-Web-App.git`
+1. Clone the repository: `git clone https://github.com/starme208/Human-Disease-Predictor-Web-App.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python app.py`
 
@@ -64,7 +63,3 @@ The web app is deployed on Heroku. You can access it at [Heroku App Link](https:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me at your-email@example.com or [create an issue](https://github.com/MGJillaniMughal/Human-Disease-Predictor-Web-App/issues).
